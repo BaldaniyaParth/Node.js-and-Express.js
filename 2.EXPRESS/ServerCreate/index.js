@@ -20,12 +20,12 @@ app.listen(PORT, () => {
 //     console.log(req)
 //     console.log("request Create");
 
-//     // res.send("<h1>Your Request Accept</h1>");
+    // res.send("<h1>Your Request Accept</h1>");
 
-//     // res.send({
-//     //     name: "Parth",
-//     //     age : 21
-//     // });
+    // res.send({
+    //     name: "Parth",
+    //     age : 21
+    // });
 
 //     res.send("This is object");
 // })
